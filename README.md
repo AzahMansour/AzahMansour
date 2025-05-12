@@ -6,7 +6,7 @@
   - 
 - <b>Python</b>
   - 
-- <b>SAS Visual Analytics</b>
+- <b>JavaScript</b>
   - 
 - <b>Python</b>
   - 
