@@ -7,11 +7,11 @@
 - <b>Python</b>
   - 
 - <b>JavaScript Project</b>
-  - 
+  - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>Certifications</b>
   - 
 
 
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/azahmansour
+[linkedin](https://linkedin.com/in/azahmansour)
