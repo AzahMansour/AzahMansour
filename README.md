@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
-- <b>SQL Practice (MySQL Workbench)</b>
+- <b>SQL</b>
   - 
 - <b>Python</b>
   - 
