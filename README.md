@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
-- <b>SQL</b>
+- <b>SQL Labs</b>
   - 
 - <b>Python</b>
   - 
-- <b>JavaScript</b>
+- <b>JavaScript Project</b>
   - 
-- <b>Python</b>
+- <b>Certifications</b>
   - 
 
 
