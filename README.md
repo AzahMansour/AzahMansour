@@ -4,7 +4,7 @@
 
 - <b>SQL Labs</b>
   - [Practice with Aggregate Functions]
-  - [Practice with Views, Indices, Triggers, Stored Procedures, Cursors, and Delimiters]
+  - [Practice with Advanced Features](https://github.com/AzahMansour/Advanced-SQL-Practice)
 - <b>Python</b>
   - 
 - <b>JavaScript Project</b>
