@@ -1,21 +1,20 @@
 <h1>Hi, I'm Azah!</h1/>
 <br />  
-<b>I'm A Business Analytics student at North Carolina State University, eager to strengthen my data querying skills and gain hands-on experiences in the field. I'm actively seeking internship or part-time opportunities related to SQL development, data engineering, or Business Intelligence analytics!</b>
+<b>I'm A Business Analytics student at North Carolina State University, eager to strengthen my data querying and programming skills through hands-on experiences. I'm actively seeking internship or part-time opportunities related to SQL development, data engineering, or Business analytics!</b>
 <br />
 <br />
 
   
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
-- <b>SQL Labs</b>
-  - [Practice with Aggregate Functions]
-  - [Practice with Advanced Features](https://github.com/AzahMansour/Advanced-SQL-Practice)
+- <b>SQL</b>
+
 - <b>Python</b>
   - [Choice Game](https://github.com/AzahMansour/Choice_Game)
-- <b>JavaScript Project</b>
+- <b>JavaScript</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>SAS</b>
-  -
+  
 - <b>Certifications</b>
   - 
 
