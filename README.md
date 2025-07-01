@@ -11,7 +11,7 @@
   - [Practice with Aggregate Functions]
   - [Practice with Advanced Features](https://github.com/AzahMansour/Advanced-SQL-Practice)
 - <b>Python</b>
-  - [Choice Game]
+  - [Choice Game](https://github.com/AzahMansour/Choice_Game)
 - <b>JavaScript Project</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>SAS</b>
