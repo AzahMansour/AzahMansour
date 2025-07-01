@@ -11,6 +11,7 @@
 
 - <b>Python</b>
   - [Choice Game](https://github.com/AzahMansour/Choice_Game)
+  - [Password Generator](https://github.com/AzahMansour/PasswordGen)
 - <b>JavaScript</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>SAS</b>
