@@ -1,6 +1,6 @@
 <h1>Hi, I'm Azah!</h1/>
 <br />  
-<b>I'm A Business Analytics student at North Carolina State University, eager to strengthen my data querying and programming skills through hands-on experiences. I'm actively seeking internship or part-time opportunities related to SQL development, data engineering, or Business analytics!</b>
+<b>I'm A Business Analytics student at North Carolina State University, eager to strengthen my data querying and programming skills through hands-on experiences. I'm actively seeking internship or part-time opportunities related to SQL development, data engineering, or Data analytics!</b>
 <br />
 <br />
 
