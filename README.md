@@ -16,6 +16,7 @@
 - <b>JavaScript</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>SAS</b>
+  - [Fast Food Nutrition Analysis](https://github.com/AzahMansour/FastFoodNTR)
   
 - <b>Certifications</b>
   - 
