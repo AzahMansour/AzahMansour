@@ -8,6 +8,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - <b>SQL</b>
+  - [Instrument Rental Business](https://github.com/AzahMansour/UptownRentals)
 
 - <b>Python</b>
   - [Choice Game](https://github.com/AzahMansour/Choice_Game)
