@@ -20,6 +20,11 @@
   
 - <b>Excel</b>
   - [Company Budget Variances](https://github.com/AzahMansour/CompanyBudget)
+  - [Investment Research and Portfolio Tracker](https://github.com/AzahMansour/StockPortfolio)
+  - [Budget Tracking](https://github.com/AzahMansour/CompanyBudget)
+ 
+- <b>Tableau</b>
+  - [British Airways Review](https://github.com/AzahMansour/BritishAir)
 
 
 
