@@ -14,7 +14,7 @@
   - [Choice Game](https://github.com/AzahMansour/Choice_Game)
   - [Password Generator](https://github.com/AzahMansour/PasswordGen)
   - [Loan Approval Analysis](https://github.com/AzahMansour/FinalExam_458)
-  - [AirBnB User Behavior Analysis]
+  - [Hotel Reservation Analysis](https://github.com/AzahMansour/HotelReservation)
 - <b>JavaScript</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
 - <b>SAS</b>
