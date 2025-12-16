@@ -13,6 +13,7 @@
 - <b>Python</b>
   - [Choice Game](https://github.com/AzahMansour/Choice_Game)
   - [Password Generator](https://github.com/AzahMansour/PasswordGen)
+  - [Loan Approval Analysis](https://github.com/AzahMansour/FinalExam_458)
   - [AirBnB User Behavior Analysis]
 - <b>JavaScript</b>
   - [NoSQL Project](https://github.com/AzahMansour/NoSQLProject)
