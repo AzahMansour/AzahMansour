@@ -1,6 +1,6 @@
 <h1>Hi, I'm Azah!</h1/>
 <br />  
-<b>I'm A Business Analytics student at North Carolina State University, eager to strengthen my data querying and programming skills through hands-on experiences. I'm actively seeking internship or part-time opportunities related to SQL development, data engineering, or Data analytics!</b>
+<b> I am a Business Analytics student at North Carolina State University with hands-on experience applying AI/ML and data analytics to real-world business problems. Focused on using predictive models and analytics tools to optimize operations, automate insights, and support data-driven strategy in ways that promote sustainable organizational growth and environmental responsibility.</b>
 <br />
 <br />
 
