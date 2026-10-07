@@ -1,6 +1,6 @@
-<h1>Hi, I'm Azah!</h1/>
+<h1>Hi there, I'm Azah Mansour!</h1/>
 <br />  
-<b> I am a Business Analytics student at North Carolina State University with hands-on experience applying AI/ML and data analytics to real-world business problems. Focused on using predictive models and analytics tools to optimize operations, automate insights, and support data-driven strategy in ways that promote sustainable organizational growth and environmental responsibility.</b>
+<b> I am a Business Analytics student at NC State University with internship experience as a Data Analyst in telecom and Division I athletics. I'm passionate about data communication and making complex technical concepts accessible to empower non-technical audiences.</b>
 <br />
 <br />
 
